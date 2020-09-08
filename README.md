@@ -1,12 +1,16 @@
-# Namespace
+# Graph
 
-In programming software, namespace is a generic term of grouping.
-Let's take a look what is namespace in all aspects.
+Let's take a quick look what is the term of "graph" in the computer programming.  
 
-- xml
+The term "graph" is more related how to take the path from point to point.  
+Let's see if we can visualize some technologies in here :
 
-- html
 
-- kubernets
+- GraphQL
 
-- python
+- Flink Graph API
+
+- cytoscape.js
+
+
+More to come...
