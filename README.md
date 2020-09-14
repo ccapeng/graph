@@ -2,7 +2,10 @@
 
 Let's take a quick look what is the term of "graph" in the computer programming.  
 
-The term "graph" is more related how to take the path from point to point.  
+The term "graph" in the programming language is kind of algorithm and is more related how to take the step(edge with distance) from node to node.  
+
+The shortest path is the main algorithm.
+
 Let's see if we can visualize some technologies in here :
 
 
@@ -12,5 +15,7 @@ Let's see if we can visualize some technologies in here :
 
 - cytoscape.js
 
+- Finite State Machine
 
-More to come...
+- Workflow Model
+	-BPMN
