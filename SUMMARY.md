@@ -2,7 +2,7 @@
 
 - [Graph](README.md)
 
-- [GraphQL](topic-graphql.md)
+- [GraphQL](topic-graphQL.md)
 
 - [Flink Graph API](topic-flink.md)
 
