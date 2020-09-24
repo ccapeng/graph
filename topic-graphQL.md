@@ -18,11 +18,11 @@
 		
 			- Get a data with full object.
 			
-			- In general, the url end point is mapping to one data base table.
+			- In general, the url end point is mapping to one database table.
 			
 		- GraphQL :
 			- Get a data with only necessary fields base on your definition.  
 				Data can be smaller.
-			- Get data in one request for cross data tables.
+			- Get data in one request for cross database tables.
 			
 	
